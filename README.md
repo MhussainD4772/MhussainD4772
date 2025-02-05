@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://github.com/MhussainD4772/MhussainD4772/raw/main/Banner.png" alt="GitHub Banner" width="90%">
+  <img src="https://github.com/MhussainD4772/MhussainD4772/raw/main/Ban.png" alt="GitHub Banner" width="90%">
 </p>
 
 

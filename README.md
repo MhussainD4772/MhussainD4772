@@ -2,6 +2,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=500&color=0FC0FC&center=true&vCenter=true&width=600&height=55&lines=Hey%2C+I'm+Syed+Hussain!+%F0%9F%91%8B;SDET+%7C+Python+%7C+Playwright+%7C+AI+%7C+Cloud;Cricketer+%7C+Content+Creator+%F0%9F%8E%B9%F0%9F%93%BA;Welcome+to+My+GitHub+Profile!+%F0%9F%9A%80">
 </h1>
 
+<p align="center">
+  <img src="https://github.com/MhussainD4772/MhussainD4772/raw/main/banner.png" alt="GitHub Banner" width="90%">
+</p>
+
 
 ## 🔥 **About Me**
 - 🎓 **Masters in Information Technology**
@@ -26,9 +30,10 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+<!--   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/> -->
 <!--   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> -->
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<!--   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> -->
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
 ---

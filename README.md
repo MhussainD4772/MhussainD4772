@@ -6,9 +6,13 @@
   <img src="https://github.com/MhussainD4772/MhussainD4772/raw/main/banner.png" alt="GitHub Banner" width="90%">
 </p>
 
+📌 **If the banner doesn’t appear, manually upload `banner.png` to your GitHub repo.**  
+🔹 Alternatively, use an online image and replace the link above.
+
 ---
 
 ## 🔥 **About Me**
+- 🎓 **Masters in Information Technology**
 - 🎯 **SDET at First National Bank** | **QA Automation Engineer**
 - 🐍 **Python & Playwright Enthusiast**
 - ☁️ **Cloud & AI/ML Learner**
@@ -21,11 +25,17 @@
 ## **💻 Tech Stack & Tools**
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Playwright-1E1E1E?style=for-the-badge&logo=playwright&logoColor=green"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cucumber-43B02A?style=for-the-badge&logo=cucumber&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 

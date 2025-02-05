@@ -1,6 +1,5 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=500&color=0FC0FC&center=true&vCenter=true&width=600&height=55&lines=Hey%2C+I'm+Syed+Hussain!+%F0%9F%91%8B;SDET+%7C+Python+%7C+Playwright+%7C+AI+%7C+Cloud;Cricketer+%7C+Content+Creator+%F0%9F%8E%B9%F0%9F%93%BA;Welcome+to+My+GitHub+Profile!+%F0%9F%9A%80">
-</h1>
+ <h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=500&color=0FC0FC&center=true&vCenter=true&width=600&height=55&lines=Hey%2C+I'm+Syed+Hussain!+%F0%9F%91%8B;SDET+%7C+Python+%7C+Playwright;Cloud+%7C+AI/ML+Enthusiast;Cricketer+%7C+Content+Creator;Welcome+to+My+GitHub+Profile!+%F0%9F%9A%80">
 
 <p align="center">
   <img src="https://github.com/MhussainD4772/MhussainD4772/raw/main/Ban.png" alt="GitHub Banner" width="90%">

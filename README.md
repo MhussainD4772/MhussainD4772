@@ -11,7 +11,6 @@
 - 🎯 **SDET at First National Bank** | **QA Automation Engineer**
 - 🐍 **Python | Software Development & Testing Learner**
 - ☁️ **Cloud & AI/ML Enthusiast**
-- 🏏 **Cricketer with a Passion for Fitness**
 - 🎬 **Content Creator on Instagram & YouTube Shorts**
 - 💡 **Always Learning & Exploring Open Source**
 

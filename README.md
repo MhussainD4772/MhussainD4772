@@ -8,7 +8,6 @@
 
 ## 🔥 **About Me**
 - 🎓 **Masters in Information Technology**
-- 🎯 **SDET at First National Bank** | **QA Automation Engineer**
 - 🐍 **Python | Software Development & Testing Learner**
 - ☁️ **Cloud & AI/ML Enthusiast**
 - 🎬 **Content Creator on Instagram & YouTube Shorts**

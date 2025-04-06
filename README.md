@@ -8,6 +8,7 @@
 
 ## 🔥 **About Me**
 - 🎓 **Masters in Information Technology**
+- 💼 QA Automation Engineer at FNB
 - 🐍 **Python | Software Development & Testing Learner**
 - ☁️ **Cloud & AI/ML Enthusiast**
 - 🎬 **Content Creator on Instagram & YouTube Shorts**

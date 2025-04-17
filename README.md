@@ -7,6 +7,7 @@
 
 
 ## 🔥 **About Me**
+- ⚡️ Absolute Learning Machine | Most Curious Person In the Room
 - 🎓 **Masters in Information Technology**
 - 💼 QA Automation Engineer at FNB
 - 🐍 **Python | Software Development & Testing Learner**

@@ -9,7 +9,7 @@
 ## 🔥 **About Me**
 - ⚡️ **Absolute Learning Machine | Most Curious Person In the Room**
 - 🎓 **Masters in Information Technology**
-- 💼 QA Automation Engineer at FNB
+- 💼 **Software Development Engineer in Test at First National Bank**
 - 🐍 **Python | Software Development & Testing Learner**
 - ☁️ **Cloud & AI/ML Enthusiast**
 - 🎬 **Content Creator on Instagram & YouTube Shorts**

@@ -28,7 +28,7 @@ ___
 
 ## 🏆 **LeetCode Activity**
 <p align="center">
-  <img src="https://leetcode.com/users/MhussaiD/calendar" alt="LeetCode Calendar" width="80%"/>
+  <img src="https://leetcode-stats-six.vercel.app/api?username=MhussaiD&theme=dark&show_icons=true&count_private=true" alt="LeetCode Stats" width="100%"/>
 </p>
 
 <p align="center">

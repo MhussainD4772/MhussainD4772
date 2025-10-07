@@ -24,6 +24,23 @@ ___
 
 ---
 
+---
+
+## 🏆 **LeetCode Stats**
+<p align="center">
+  <img src="https://leetcode-stats-six.vercel.app/api?username=MhussaiD&theme=dark" alt="LeetCode Stats" width="60%"/>
+</p>
+
+<p align="center">
+  <img src="https://leetcode.card.workers.dev/?username=MhussaiD&theme=auto" alt="LeetCode Card" width="50%"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode Badge"/>
+</p>
+
+---
+
 ## **💻 Tech Stack & Skills**
 
 <p align="center">

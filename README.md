@@ -75,11 +75,7 @@ ___
 ## **💻 LeetCode Stats**
 
 <p align="center">
-  <img src="https://leetcode-stats.vercel.app/api?username=MhussaiD&theme=dark" alt="LeetCode Stats" />
-</p>
-
-<p align="center">
-  <img src="https://leetcode-stats-card.vercel.app/api?username=MhussaiD&theme=dark&font=baloo&extension=activity" alt="LeetCode Activity" width="100%"/>
+  <img src="https://leetcard.jacoblin.cool/MhussaiD?theme=dark&font=baloo&ext=activity" alt="LeetCode Stats" />
 </p>
 
 ---

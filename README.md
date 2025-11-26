@@ -1,10 +1,9 @@
-<table>
-  <tr>
-    <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWFmZHNtc3F2ZmlldHRsOTVoa21tbHBtNTE5andhYmZ6bjF6Nmw2biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Y07F3fs9Is5byj4zK8/giphy.gif" alt="Rick and Morty" width="280px" />
-    </td>
-    <td width="60%" valign="top">
-      
+<div align="left">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWFmZHNtc3F2ZmlldHRsOTVoa21tbHBtNTE5andhYmZ6bjF6Nmw2biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Y07F3fs9Is5byj4zK8/giphy.gif" alt="Rick and Morty" width="300px" />
+</div>
+
+---
+
 ## About Me
 
 **Software Development Engineer** at **First National Bank, USA**
@@ -14,10 +13,6 @@ Building scalable systems end-to-end: backend, frontend, testing, and orchestrat
 **Currently Building:**
 - **QA Sentinel** — Agentic QA Orchestrator with planners, validators, and memory systems
 - **Mirror AI** — Emotional journaling AI app with HuggingFace models and Supabase
-
-    </td>
-  </tr>
-</table>
 
 ---
 

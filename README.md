@@ -1,48 +1,13 @@
-<div align="center">
-  <img src="https://github.com/MhussainD4772/MhussainD4772/raw/main/Ban.png" alt="Banner" width="100%" />
-</div>
-
----
-
-## Projects
-
-**QA Sentinel** — Multi-agent QA workflow with Orchestrator, Planner, Test Generator, and Global Validator
-
-**Mirror AI** — Emotional journaling app with HuggingFace models, Supabase auth, and sentiment analysis
-
-**Capstone Multi-Agent Pipeline** — Production-grade agentic architecture with LLMRAP agents, FAISS memory, and evaluator layers
-
-**DevFolio** — No-code portfolio generator built with React, Supabase, Tailwind, and shadcn/ui
-
-**Solo Leveling Productivity Game** — React Native productivity app with character progression and streak mechanics
-
----
 
 ## About Me
 
-**Software Development Engineer** at **First National Bank, USA**
+**Software Development Engineer** at **First National Bank**
 
 Building scalable systems end-to-end: backend, frontend, testing, and orchestration. Strong proficiency in Python, Java, C#, JavaScript, Node.js, React, and REST APIs. Experience with enterprise systems including ETL pipelines, SSIS packages, and SQL procedures. Strong QA Engineering and Automation background with Playwright, Cucumber, and TestNG. AI/ML enthusiast building real agentic pipelines. Passionate about cloud infrastructure (AWS), distributed systems, and production-grade automation.
 
 **Currently Building:**
 - **QA Sentinel** — Agentic QA Orchestrator with planners, validators, and memory systems
 - **Mirror AI** — Emotional journaling AI app with HuggingFace models and Supabase
-
----
-
-## Tech Stack
-
-**Languages:** Python, Java, C#, JavaScript, TypeScript, SQL
-
-**Backend:** Node.js, Express.js, .NET Core, Supabase, REST APIs
-
-**Frontend:** React, Next.js, TailwindCSS, shadcn/ui, Framer Motion, React Native, Expo
-
-**Testing & Automation:** Playwright, Selenium, TestNG, JUnit, Cucumber, Postman, CI/CD, Azure DevOps
-
-**Cloud & AI:** AWS (S3, EC2, Lambda, SageMaker), HuggingFace, FAISS, AI Agents (LLMRAP framework)
-
-**Data & Tools:** PostgreSQL, MongoDB, SQL Server, Docker, Git, VS Code, IntelliJ, Rider
 
 ---
 

@@ -4,20 +4,6 @@
 
 ---
 
-## Projects
-
-**QA Sentinel** — Multi-agent QA workflow with Orchestrator, Planner, Test Generator, and Global Validator
-
-**Mirror AI** — Emotional journaling app with HuggingFace models, Supabase auth, and sentiment analysis
-
-**Capstone Multi-Agent Pipeline** — Production-grade agentic architecture with LLMRAP agents, FAISS memory, and evaluator layers
-
-**DevFolio** — No-code portfolio generator built with React, Supabase, Tailwind, and shadcn/ui
-
-**Solo Leveling Productivity Game** — React Native productivity app with character progression and streak mechanics
-
----
-
 ## About Me
 
 **Software Development Engineer** at **First National Bank, USA**
@@ -30,25 +16,17 @@ Building scalable systems end-to-end: backend, frontend, testing, and orchestrat
 
 ---
 
-## Tech Stack
+<div align="center">
 
-**Languages:** Python, Java, C#, JavaScript, TypeScript, SQL
+<img src="https://leetcard.jacoblin.cool/MhussaiD?theme=dark&font=baloo&border=0&radius=8" alt="LeetCode Stats" />
 
-**Backend:** Node.js, Express.js, .NET Core, Supabase, REST APIs
-
-**Frontend:** React, Next.js, TailwindCSS, shadcn/ui, Framer Motion, React Native, Expo
-
-**Testing & Automation:** Playwright, Selenium, TestNG, JUnit, Cucumber, Postman, CI/CD, Azure DevOps
-
-**Cloud & AI:** AWS (S3, EC2, Lambda, SageMaker), HuggingFace, FAISS, AI Agents (LLMRAP framework)
-
-**Data & Tools:** PostgreSQL, MongoDB, SQL Server, Docker, Git, VS Code, IntelliJ, Rider
+</div>
 
 ---
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/MhussaiD?theme=nord&font=source_code_pro&ext=activity&border=0&radius=8" alt="LeetCode Stats" />
+<img src="https://media.giphy.com/media/3o7aCTPPm4OHfRLSH6/giphy.gif" alt="Rick and Morty" width="400px" />
 
 </div>
 

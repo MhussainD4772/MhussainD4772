@@ -4,23 +4,17 @@
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWFmZHNtc3F2ZmlldHRsOTVoa21tbHBtNTE5andhYmZ6bjF6Nmw2biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Y07F3fs9Is5byj4zK8/giphy.gif" alt="Rick and Morty" width="280px" />
     </td>
     <td width="60%" valign="top">
-      <h2>About Me</h2>
       
-      <p>
-        <strong>Software Development Engineer</strong> at <strong>First National Bank, USA</strong>
-      </p>
-      
-      <p>
-        Building scalable systems end-to-end: backend, frontend, testing, and orchestration. Strong proficiency in <strong>Python</strong>, <strong>Java</strong>, <strong>C#</strong>, <strong>JavaScript</strong>, <strong>Node.js</strong>, <strong>React</strong>, and <strong>REST APIs</strong>. Experience with enterprise systems including ETL pipelines, SSIS packages, and SQL procedures. Strong QA Engineering and Automation background with <strong>Playwright</strong>, <strong>Cucumber</strong>, and <strong>TestNG</strong>. AI/ML enthusiast building real agentic pipelines. Passionate about cloud infrastructure (<strong>AWS</strong>), distributed systems, and production-grade automation.
-      </p>
-      
-      <p>
-        <strong>Currently Building:</strong>
-      </p>
-      <ul>
-        <li><strong>QA Sentinel</strong> — Agentic QA Orchestrator with planners, validators, and memory systems</li>
-        <li><strong>Mirror AI</strong> — Emotional journaling AI app with HuggingFace models and Supabase</li>
-      </ul>
+## About Me
+
+**Software Development Engineer** at **First National Bank, USA**
+
+Building scalable systems end-to-end: backend, frontend, testing, and orchestration. Strong proficiency in **Python**, **Java**, **C#**, **JavaScript**, **Node.js**, **React**, and **REST APIs**. Experience with enterprise systems including ETL pipelines, SSIS packages, and SQL procedures. Strong QA Engineering and Automation background with **Playwright**, **Cucumber**, and **TestNG**. AI/ML enthusiast building real agentic pipelines. Passionate about cloud infrastructure (**AWS**), distributed systems, and production-grade automation.
+
+**Currently Building:**
+- **QA Sentinel** — Agentic QA Orchestrator with planners, validators, and memory systems
+- **Mirror AI** — Emotional journaling AI app with HuggingFace models and Supabase
+
     </td>
   </tr>
 </table>

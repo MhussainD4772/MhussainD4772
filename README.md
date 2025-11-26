@@ -4,6 +4,20 @@
 
 ---
 
+## Projects
+
+**QA Sentinel** — Multi-agent QA workflow with Orchestrator, Planner, Test Generator, and Global Validator
+
+**Mirror AI** — Emotional journaling app with HuggingFace models, Supabase auth, and sentiment analysis
+
+**Capstone Multi-Agent Pipeline** — Production-grade agentic architecture with LLMRAP agents, FAISS memory, and evaluator layers
+
+**DevFolio** — No-code portfolio generator built with React, Supabase, Tailwind, and shadcn/ui
+
+**Solo Leveling Productivity Game** — React Native productivity app with character progression and streak mechanics
+
+---
+
 ## About Me
 
 **Software Development Engineer** at **First National Bank, USA**
@@ -32,27 +46,9 @@ Building scalable systems end-to-end: backend, frontend, testing, and orchestrat
 
 ---
 
-## Projects
-
-**QA Sentinel** — Multi-agent QA workflow with Orchestrator, Planner, Test Generator, and Global Validator
-
-**Mirror AI** — Emotional journaling app with HuggingFace models, Supabase auth, and sentiment analysis
-
-**Capstone Multi-Agent Pipeline** — Production-grade agentic architecture with LLMRAP agents, FAISS memory, and evaluator layers
-
-**DevFolio** — No-code portfolio generator built with React, Supabase, Tailwind, and shadcn/ui
-
-**Solo Leveling Productivity Game** — React Native productivity app with character progression and streak mechanics
-
----
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MhussainD4772&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-
-<img src="https://leetcard.jacoblin.cool/MhussaiD?theme=dark&font=baloo&ext=activity&border=0" alt="LeetCode Stats" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MhussainD4772&theme=github-dark&hide_border=true" alt="Activity Graph" width="100%" />
+<img src="https://leetcard.jacoblin.cool/MhussaiD?theme=nord&font=source_code_pro&ext=activity&border=0&radius=8" alt="LeetCode Stats" />
 
 </div>
 
